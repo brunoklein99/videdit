@@ -1,4 +1,4 @@
 videdit
 
 
-PyAV to be impleted
+PyAV to be implemented
